@@ -44,3 +44,14 @@ The app can run on multiple modes:<br />
   Once you upload the image, you can select the mode and upload the image.
   
   The result will show the classified image with red or green borders representing trash or recyclable respectively.
+  
+# How can I test this prototype?
+
+  You can easily test this app by following below steps:
+  1.Open google colab and upload unarchived model2.hdf5 to the session content folder
+  2.Upload the App.py to the same folder
+  3.Run below commands on google colab notebook 
+   - !pip install streamlit
+   - !streamlit run /content/app.py & npx localtunnel --port 8501
+  4.This will give a link where you can access the prototype app
+  
