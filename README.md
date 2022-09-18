@@ -10,6 +10,8 @@ The problem this app try to solve is classifying waste items using images to ide
 # Tech stack
 The machine learning model used for the app was developed and run using python on Google Colab(https://colab.research.google.com/).
 The trained model was download and uploaded in this repository(model2.rar)
+The dataset use for this model is an adaptation of the dataset from https://github.com/garythung/trashnet
+This dataset was  regrouped into two classes:trash and recyle , to make it a binary classificaiton 
 
 python appliaton (app.py) can be run on streamlit(https://streamlit.io/) with npx localtunnel(https://github.com/localtunnel/localtunnel) to test the prototype.
 
