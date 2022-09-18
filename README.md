@@ -9,7 +9,7 @@ The problem this app try to solve is classifying waste items using images to ide
 
 # Tech stack
 The machine learning model used for the app was developed and run using python on Google Colab(https://colab.research.google.com/).
-The trained model was download and uploaded in this repository
+The trained model was download and uploaded in this repository(model2.rar)
 
 python appliaton (app.py) can be run on streamlit(https://streamlit.io/) with npx localtunnel(https://github.com/localtunnel/localtunnel) to test the prototype.
 
