@@ -23,6 +23,6 @@ The app can run on multiple modes:
 2.Multimode: (different number of cropping factor also can be selected(3,5,7 or 9)
   This mode can detect multiple items from an image and classfiy it as trash or reclylable. This mode can be adapted in recyle industry centers where large scale waste sorting is practiced. For example on waste sorting belt , the algorithm can be used to capture image of the items on belt and it can quickly scan and notify if the item contains trash or recyclables. Depending on this further actions such as belt speed or robotic usage of removing the trash etc can be done.
   
-  # App Output
+# App Output
   Once you upload the image, you can select the mode and upload the image.
   The result will show the classified image with red or green borders representing trash or recyclable respectively.
